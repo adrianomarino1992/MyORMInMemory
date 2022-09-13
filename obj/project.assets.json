@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Adr.MyORM/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/MyORM.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/MyORM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Adr.MyORM/2.0.1": {
+      "sha512": "DRLOqtu5jLcdCeZuuHoivu5FbT7/onNxL7Pk3BCZyTClZWph7X5fA7jR3Cl3JBiJqukWvOKZf9RXkYcsHnHvoA==",
+      "type": "package",
+      "path": "adr.myorm/2.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "adr.myorm.2.0.1.nupkg.sha512",
+        "adr.myorm.nuspec",
+        "lib/net6.0/MyORM.deps.json",
+        "lib/net6.0/MyORM.dll",
+        "lib/net6.0/MyORM.pdb"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Adr.MyORM >= 2.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\LuisDev\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\LuisDev\\Desktop\\MyORM\\MyORM\\MyORMInMemory\\MyORMInMemory.csproj",
+      "projectName": "MyORMInMemory",
+      "projectPath": "C:\\Users\\LuisDev\\Desktop\\MyORM\\MyORM\\MyORMInMemory\\MyORMInMemory.csproj",
+      "packagesPath": "C:\\Users\\LuisDev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LuisDev\\Desktop\\MyORM\\MyORM\\MyORMInMemory\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\LuisDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Adr.MyORM": {
+            "target": "Package",
+            "version": "[2.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\LuisDev\Desktop\MyORM\MyORM\MyORMInMemory\bin\Release\net6.0\MyORMInMemory.deps.json
+C:\Users\LuisDev\Desktop\MyORM\MyORM\MyORMInMemory\bin\Release\net6.0\MyORMInMemory.dll
+C:\Users\LuisDev\Desktop\MyORM\MyORM\MyORMInMemory\bin\Release\net6.0\MyORMInMemory.pdb
+C:\Users\LuisDev\Desktop\MyORM\MyORM\MyORMInMemory\obj\Release\net6.0\MyORMInMemory.csproj.AssemblyReference.cache
+C:\Users\LuisDev\Desktop\MyORM\MyORM\MyORMInMemory\obj\Release\net6.0\MyORMInMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuisDev\Desktop\MyORM\MyORM\MyORMInMemory\obj\Release\net6.0\MyORMInMemory.AssemblyInfoInputs.cache
+C:\Users\LuisDev\Desktop\MyORM\MyORM\MyORMInMemory\obj\Release\net6.0\MyORMInMemory.AssemblyInfo.cs
+C:\Users\LuisDev\Desktop\MyORM\MyORM\MyORMInMemory\obj\Release\net6.0\MyORMInMemory.csproj.CoreCompileInputs.cache
+C:\Users\LuisDev\Desktop\MyORM\MyORM\MyORMInMemory\obj\Release\net6.0\MyORMInMemory.dll
+C:\Users\LuisDev\Desktop\MyORM\MyORM\MyORMInMemory\obj\Release\net6.0\refint\MyORMInMemory.dll
+C:\Users\LuisDev\Desktop\MyORM\MyORM\MyORMInMemory\obj\Release\net6.0\MyORMInMemory.pdb
+C:\Users\LuisDev\Desktop\MyORM\MyORM\MyORMInMemory\obj\Release\net6.0\ref\MyORMInMemory.dll

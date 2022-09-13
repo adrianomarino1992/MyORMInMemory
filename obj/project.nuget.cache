@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KDXIYcWhXAt0WAbonegk+vlk04edRZ3zhATSs4ISUxXiJ9kZlP21IE67AByAGJN8I7MMCDQ04Uk9FjjG2J30Bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LuisDev\\Desktop\\MyORM\\MyORM\\MyORMInMemory\\MyORMInMemory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LuisDev\\.nuget\\packages\\adr.myorm\\2.0.1\\adr.myorm.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

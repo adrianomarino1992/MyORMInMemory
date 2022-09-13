@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MyORMInMemory/1.0.0": {
+        "dependencies": {
+          "Adr.MyORM": "2.0.1"
+        },
+        "runtime": {
+          "MyORMInMemory.dll": {}
+        }
+      },
+      "Adr.MyORM/2.0.1": {
+        "runtime": {
+          "lib/net6.0/MyORM.dll": {
+            "assemblyVersion": "2.0.1.0",
+            "fileVersion": "2.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyORMInMemory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Adr.MyORM/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DRLOqtu5jLcdCeZuuHoivu5FbT7/onNxL7Pk3BCZyTClZWph7X5fA7jR3Cl3JBiJqukWvOKZf9RXkYcsHnHvoA==",
+      "path": "adr.myorm/2.0.1",
+      "hashPath": "adr.myorm.2.0.1.nupkg.sha512"
+    }
+  }
+}
