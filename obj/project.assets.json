@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "Adr.MyORM/2.0.1": {
+      "Adr.MyORM/3.0.0": {
         "type": "package",
         "compile": {
           "lib/net6.0/MyORM.dll": {}
@@ -14,14 +14,15 @@
     }
   },
   "libraries": {
-    "Adr.MyORM/2.0.1": {
-      "sha512": "DRLOqtu5jLcdCeZuuHoivu5FbT7/onNxL7Pk3BCZyTClZWph7X5fA7jR3Cl3JBiJqukWvOKZf9RXkYcsHnHvoA==",
+    "Adr.MyORM/3.0.0": {
+      "sha512": "4GB8wLsvcSs5xNNL/QpxZpAR6pi3Nxkwq3VOoaBr50xpmUOO9YWHOcqqSooq6etv73HVhm1AtpaTutio/BvLlA==",
       "type": "package",
-      "path": "adr.myorm/2.0.1",
+      "path": "adr.myorm/3.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "adr.myorm.2.0.1.nupkg.sha512",
+        "README.md",
+        "adr.myorm.3.0.0.nupkg.sha512",
         "adr.myorm.nuspec",
         "lib/net6.0/MyORM.deps.json",
         "lib/net6.0/MyORM.dll",
@@ -31,7 +32,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Adr.MyORM >= 2.0.1"
+      "Adr.MyORM >= 3.0.0"
     ]
   },
   "packageFolders": {
@@ -85,7 +86,7 @@
         "dependencies": {
           "Adr.MyORM": {
             "target": "Package",
-            "version": "[2.0.1, )"
+            "version": "[3.0.0, )"
           }
         },
         "imports": [
